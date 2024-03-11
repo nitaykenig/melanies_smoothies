@@ -11,7 +11,7 @@ st.write(
 )
 st.write("Omega 3 & Blueberry Oatmeal")
 st.write("Kale, Spinach, & Rocket Smoothie")
-st.write("Hard-Boiled Range-Free Egg:)
+st.write("Hard-Boiled Range-Free Egg")
          
 
 name_on_order = st.text_input('Name on Smoothie')
